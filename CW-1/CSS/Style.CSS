@@ -1,0 +1,155 @@
+
+
+h1{
+  font-family: Helvetica;
+  font-size: 100px;
+    text-align: center;
+  background-color: rgb(240, 240, 240);
+}
+
+/*  customising the type, size and placement of the font to give thw ebsite more of an unigue visual appeal */
+
+p{
+  font-family: Helvetica;
+  font-weight: 300;
+  font-size: 15px;
+  color:black ;
+  text-align:100px ;
+  padding: 2%;
+}
+
+/*  The extra padding gives the text  */
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: rgb(152, 222, 255);
+}
+
+img {
+  float: left;
+  width: 20%;
+  height: 20%;
+}
+
+ /*  assures the images are the same size so they can fit in the correct format  */
+video {
+  padding: %;
+  width: 100%;
+  height: 100%;
+}
+
+/* Making sure the video is scaled evenly */
+
+audio {
+padding: 17px;
+width: 100%;
+}
+
+ /*  Gives tha udio bar enough space for it not to be obstructed */
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: px;
+
+}
+
+ /* Making sure the heading is spaced and centered correctly  */
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Keeps the test at the left inside the navigation bar.  */
+
+.column {
+  float: left;
+  width: 100%;
+  padding: 30px;
+}
+
+/* Expands the columns arcoss the whole page of the website */
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* separates navigation bar */
+
+.topnav a:hover {
+  background-color:rgb(255, 255, 255) ;
+  color: black;
+}
+
+/* Changes the colour of the icons on the navigation bar, once you hover over them . Its inverts the colours.  */
+
+.leftcolumn {
+  float: left;
+  width: 100%;
+  padding: 30px;
+}
+
+/* Left column, keeps the spacing right on the left side  */
+
+.rightcolumn {
+  float: left;
+  width: 100%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+
+/* Right column, keeps the spacing right on the right side  */
+
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+  width: 93%;
+}
+
+/* White boards to highlight the text and images, making them stand out from the background */
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: rgb(52, 52, 52);
+  margin-top: 20px;
+  color: rgb(255, 255, 255);
+  width: 1380px;
+
+  /* Footer, With a black border, giving it a strong contrast from the background. Same as the Navigation bar to even out the black bars on the page.  */
+
+}
+
+
+
+.White{
+  color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+ /* Footer text is white to contrast the black border its in */
+
+  .space{
+    padding-left: 20px;
+  }
+
+/* adds spacing for the contents*/
+
+.Photo{
+  height: auto;
+  width: auto;
+  padding-left: 350px;
+  padding-top: 50px;
+}
+
+/* Centres the image with the correct height and width */
